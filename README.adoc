@@ -21,9 +21,6 @@ Unirse a Discord de Elixir Chile.
 ### https://t.me/elixircl[Telegram]
 También disponible por si prefieres _Telegram_.
 
-### https://github.com/ElixirCL/elixircl/discussions[Github Discussions]
-El foro principal, ideal para debatir ideas de forma más organizada que un chat, además de que es más fácil compartir código.
-
 ### https://github.com/ElixirCL/elixircl/wiki[Github Wiki]
 
 La _Wiki_ sirve para compartir pequeños snippets de códigos, como también
